@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
         break;
       case 1:
         bodyE.style.backgroundColor = "#000";
-        weatherText.textContent = "It's Moonlit Night!!!";
+        weatherText.textContent = "It's Moonlight Night!!!";
         weatherText.style.color = "#fff";
         cover.style.transform = "translateX(100%)";
         cover.style.backgroundColor = "#000";
